@@ -1,0 +1,103 @@
+1-	TGS-2020002143
+19/10/2021 11:50:24 AM
+
+2-	E=beesbuzztech@gmail.com, CN=Bees, OU=IT, O=BeesBuzz, L=SG, S=SG, C=SG
+19/10/2021 11:50:27 AM
+
+3-	IztTOSktC7X4ECvlnBKD1bueBayDUJnyN8Tk6TvlcZA7wgEXWi0iYdZ3TchF/lcZsvftp0MHFx5e2LhAlEx2vWkaWPYOUhEo0hukLuS0Ps+AIi2H2LUXQlpdRVetIsIM4JtQaj7biLd66JATRj46bAE04kCLgOZ6ulQuQv7AHc2p6KjybnfZ4/oAsXYJ0ur45jvdyXyh9464Mq60JiDnhQ==
+19/10/2021 11:50:34 AM
+
+0-	{
+  "status": "403",
+  "data": {},
+  "meta": {},
+  "error": {
+    "message": "Forbidden",
+    "details": [
+      {
+        "field": "-",
+        "message": "TGS-405 - Invalid training partner UEN"
+      }
+    ]
+  }
+}
+19/10/2021 11:50:40 AM
+
+1-	ASM-2110-00004
+19/10/2021 11:54:10 AM
+
+2-	E=beesbuzztech@gmail.com, CN=Bees, OU=IT, O=BeesBuzz, L=SG, S=SG, C=SG
+19/10/2021 11:54:10 AM
+
+3-	IztTOSktC7X4ECvlnBKD1bueBayDUJnyN8Tk6TvlcZA7wgEXWi0iYdZ3TchF/lcZsvftp0MHFx5e2LhAlEx2vWkaWPYOUhEo0hukLuS0Ps+AIi2H2LUXQlpdRVetIsIM4JtQaj7biLd66JATRj46bAE04kCLgOZ6ulQuQv7AHc2p6KjybnfZ4/oAsXYJ0ur45jvdyXyh9464Mq60JiDnhQ==
+19/10/2021 11:54:11 AM
+
+0-	{
+  "status": "403",
+  "data": {},
+  "meta": {},
+  "error": {
+    "message": "Forbidden",
+    "details": [
+      {
+        "field": "-",
+        "message": "TGS-405 - Invalid training partner UEN"
+      }
+    ]
+  }
+}
+19/10/2021 11:54:11 AM
+
+1-	ASM-2110-000047
+19/10/2021 2:18:52 PM
+
+2-	E=beesbuzztech@gmail.com, CN=Bees, OU=IT, O=BeesBuzz, L=SG, S=SG, C=SG
+19/10/2021 2:18:52 PM
+
+3-	R1hqo23+j3Usr+d//wgExrJaXcHibsnMIdyLTO4pRzJPBbQprnXU0NHFHW6O0xSTflDR3qkaSWF1m0QX2GBATDh18zu1pRoF9TNAeSo+qehrV6hXutEy5YPgAse4IAKDa8TMJtudrwUloYjs7fiTGq+8kruU8Asa9AfTj4JIEJsqLAb426Fg3KC3NfXStud/D2e7FCR0b4ppO+OfLkF6Zdw2OROIm6J7q8Aa/37s+9vHD45o/AU+5rfY4+euhcsDOhv6T+4StaIyJmbVVIpz1v+NSSE07rkDNqLUi3fUpCoH06PP2FuYVgWoTmw6qWU8jzBgUEOl1hAtROEKygVD+sx8261RwJRAoXxCYltFr/O0oHqUjVkil3l1o8ricAS+RNYeL5tK3JC5Bgvw1O2z4XDuh6kDFXV6MO7OpCJdv9ydG2pAws23CuJm5fh/WoHnCOUSf9dV8aG6aOHTLIYi+JyMyTHLlbnzyoxB/vFMKqjwW6YNbbPm30t2URdWjpIahUlhh2SJgQkcCDBofVpU45o3CBqAOcSiMjeBC80DiItzFpR/goZOWHn1DpKIgtkxpt1TP3IZelxq2bD4wUACCA3h6zaSk4NRUKhPqzkSSrYboQnch+l+u5fMpLL0cM4FsqLog5XQf6VwWTUzeycwJrgNmqUwZ9EbPG0kUL3fm8jsqV1znHntYLodTcI7/bq2igrER4SnTJQnQJa/n4RM9OjbdDmnzmcdy4CYmN1HdSkV5oGkOjp8C7CkkA1Se94ZYUzd4iTEX+9Mkyo7bIyRo+m8ro3WlPwmdxtLndpjZkqENExb6iyxEBQq7NTzSlsVSec53NhLBfiIXdnG5U/92N7tEm0rGEHWwvz2X6/BAA2iNn+TureHMOsiAC2ZgEv2
+19/10/2021 2:18:53 PM
+
+0-	{
+  "status": "200",
+  "data": {
+    "referenceNumber": "ASM-2110-000047",
+    "trainingPartner": {
+      "code": "201003953Z-01",
+      "uen": "201003953Z",
+      "name": "TMC ACADEMY PTE. LTD."
+    },
+    "course": {
+      "referenceNumber": "TGS-2020002141",
+      "title": "Live Laugh Love",
+      "run": {
+        "id": "226025",
+        "startDate": "2021-07-09",
+        "endDate": "2021-10-24"
+      }
+    },
+    "trainee": {
+      "idType": {
+        "type": "NRIC"
+      },
+      "id": "S8190860E",
+      "fullName": "Annie Edison"
+    },
+    "result": "Pass",
+    "score": 80,
+    "grade": "B",
+    "assessmentDate": "2021-07-09",
+    "skillCode": "AER-MAT-2019-2.1",
+    "conferringInstitute": {
+      "code": "201003953Z-01",
+      "uen": "201003953Z",
+      "name": "TMC ACADEMY PTE. LTD."
+    }
+  },
+  "meta": {
+    "createdOn": "2021-10-08 01:39:35",
+    "updatedOn": "2021-10-08 01:39:36"
+  },
+  "error": {}
+}
+19/10/2021 2:18:53 PM
+

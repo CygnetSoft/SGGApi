@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SGGApp.Api", "SGGApp.Api\SGGApp.Api.csproj", "{6AA75C34-974E-4764-8BFF-F7F113205AA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SGGApp.Service", "SGGApp.Service\SGGApp.Service.csproj", "{9985AFD9-69C5-4CA9-9209-CA6FC183E19B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SGGApp.Utilities", "SGGApp.Utilities\SGGApp.Utilities.csproj", "{3B39AA09-A2FA-4CED-8F49-1FE31D243E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA75C34-974E-4764-8BFF-F7F113205AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA75C34-974E-4764-8BFF-F7F113205AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA75C34-974E-4764-8BFF-F7F113205AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA75C34-974E-4764-8BFF-F7F113205AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9985AFD9-69C5-4CA9-9209-CA6FC183E19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9985AFD9-69C5-4CA9-9209-CA6FC183E19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9985AFD9-69C5-4CA9-9209-CA6FC183E19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9985AFD9-69C5-4CA9-9209-CA6FC183E19B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B39AA09-A2FA-4CED-8F49-1FE31D243E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B39AA09-A2FA-4CED-8F49-1FE31D243E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B39AA09-A2FA-4CED-8F49-1FE31D243E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B39AA09-A2FA-4CED-8F49-1FE31D243E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E4F470D-E519-46F7-8F32-284E8B7CA439}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/kalidasplusmax
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SGGApp.Api\\SGGApp.Api.csproj
+		SccProjectName1 = SGGApp.Api
+		SccLocalPath1 = SGGApp.Api
+		SccProjectUniqueName2 = SGGApp.Service\\SGGApp.Service.csproj
+		SccProjectName2 = SGGApp.Service
+		SccLocalPath2 = SGGApp.Service
+		SccProjectUniqueName3 = SGGApp.Utilities\\SGGApp.Utilities.csproj
+		SccProjectName3 = SGGApp.Utilities
+		SccLocalPath3 = SGGApp.Utilities
+	EndGlobalSection
+EndGlobal
