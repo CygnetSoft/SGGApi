@@ -146,6 +146,7 @@ namespace SGGApp.Api
             services.AddScoped<IEnrolmentsService, EnrolmentsService>();
             services.AddScoped<IAssessmentService, AssessmentService>();
             services.AddScoped<ICourseService, CourseService>();
+            services.AddScoped<ITrainerService, TrainerService>();
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
